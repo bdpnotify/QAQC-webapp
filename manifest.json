@@ -1,6 +1,6 @@
 {
   "name": "ระบบจัดการวันลา QA/QC",
-  "short_name": "จองวันลา",
+  "short_name": "จองวันลา QA/QC",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
