@@ -1,6 +1,6 @@
 {
-  "name": "ชื่อแอปพลิเคชันแบบเต็ม",
-  "short_name": "ชื่อสั้นๆ",
+  "name": "ระบบจัดการวันลา QA/QC",
+  "short_name": "จองวันลา",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
